@@ -15,7 +15,7 @@
 
 #include "foreign/foreign.h"
 #include "lib/stringinfo.h"
-#include "nodes/relation.h"
+#include "nodes/pathnodes.h"
 #include "utils/rel.h"
 
 #include "libpq-fe.h"
